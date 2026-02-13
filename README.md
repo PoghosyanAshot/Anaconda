@@ -1,7 +1,3 @@
-📘 README.md — Anaconda-Like Interpreter in C
-
-Below is the full, ready-to-use README — no placeholders, fully tailored to your exact project structure and features.
-
 # 🐍 Anaconda-Like Programming Language Interpreter (C)
 
 This project is a fully implemented **programming language interpreter**, written entirely in **C**, featuring:
